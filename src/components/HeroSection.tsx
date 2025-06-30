@@ -16,9 +16,7 @@ export default function HeroSection() {
             <span className="text-red-500"> Tattoo</span>
           </h1>
 
-          <p className="text-xl md:text-2xl text-gray-300 mb-8 leading-relaxed">
-            Искусство на коже с мастером Полиной
-            <br />
+          <p className="text-xl md:text-2xl text-gray-300 mb-8 leading-relaxed px-0 mx-28">
             Качественная работа • Быстрое выполнение • Любые стили
           </p>
 

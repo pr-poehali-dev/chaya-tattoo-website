@@ -34,7 +34,7 @@ export default function AboutSection() {
                 Полина
               </h3>
               <p className="text-xl text-red-400 font-medium">
-                Мастер татуировки • 20 лет
+                Мастер татуировки
               </p>
 
               <div className="space-y-4 text-gray-300 text-lg leading-relaxed">
